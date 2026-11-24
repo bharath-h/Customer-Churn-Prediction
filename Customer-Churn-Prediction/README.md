@@ -118,6 +118,27 @@ Customer-Churn-Prediction/
 │   ├── 3_Model_Insights.py
 │   └── 4_Batch_Prediction.py
 │
+├── screenshots/
+│   ├── home-1.png
+│   ├── home-2.png
+│   ├── customer-prediction-1.png
+│   ├── customer-prediction-2.png
+│   ├── customer-prediction-3.png
+│   ├── churn-analytics-1.png
+│   ├── churn-analytics-2.png
+│   ├── churn-analytics-3.png
+│   ├── churn-analytics-4.png
+│   ├── churn-analytics-5.png
+│   ├── model-insights-1.png
+│   ├── model-insights-2.png
+│   ├── model-insights-3.png
+│   ├── model-insights-4.png
+│   ├── model-insights-5.png
+│   ├── batch-prediction-1.png
+│   ├── batch-prediction-2.png
+│   ├── batch-prediction-3.png
+│   └── batch-prediction-4.png
+│
 ├── app.py
 ├── requirements.txt
 └── README.md
